@@ -1,12 +1,12 @@
-<img src="./banner.png" alt="Julian Polleschner, Co-Founder & CEO of Caelex" width="100%">
+<img src="./banner.png" alt="Caelex. Clearing the path to orbit." width="100%">
 
 <br>
 
 <sub>NOW</sub>
 
-### Building export-control classification, with its reasoning attached.
+### Building the compliance system for space and defence.
 
-Co-Founder & CEO of **[Caelex](https://www.caelex.eu)**. Our product, Ocular, reads a part's datasheet and returns its control-list position, the legal derivation and a signed record. We're starting with space and defence.
+Co-Founder & CEO of **[Caelex](https://www.caelex.eu)**. We bring space regulatory compliance and export control into one system: from licensing a mission to classifying every part that ships, with the reasoning attached to every answer.
 
 <br>
 
@@ -23,7 +23,7 @@ Co-Founder & CEO of **[Caelex](https://www.caelex.eu)**. Our product, Ocular, re
 
 <sub>BELIEF</sub>
 
-### In export control, a guess is worthless.
+### In compliance, a guess is worthless.
 
 <br>
 
